@@ -1,0 +1,8 @@
+gradio==4.*
+fastapi
+uvicorn
+nbformat
+nbconvert
+markdown
+beautifulsoup4
+requests
